@@ -1,0 +1,12 @@
+.box{
+min-height: 100px;
+background-color: green;
+margin-bottom: 5px;
+}
+
+
+.big-box {
+    min-height: 200px;
+    background: yellow;
+    margin-bottom: 30px;
+}
